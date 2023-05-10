@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="moemen-benhamad" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tn.linkedin.com/in/moemen-benhamad?trk=profile-badge">Moemen Ben Hamad</a></div>
               
 
 <!--
