@@ -12,7 +12,7 @@
     </a>
 
 ### Languages
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)]()
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/moemen-benhamad)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/moemen-benhamad)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/moemen-benhamad)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/moemen-benhamad)
@@ -20,7 +20,7 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/moemen-benhamad)
 
 ### Technologies & Frameworks
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)]()
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/moemen-benhamad)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/moemen-benhamad)
