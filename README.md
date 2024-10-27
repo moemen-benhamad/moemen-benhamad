@@ -21,6 +21,8 @@
 
 ### Technologies & Frameworks
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/moemen-benhamad)
+[![OpenCL](https://img.shields.io/badge/opencl-black?style=for-the-badge&logo=opencl)](https://github.com/moemen-benhamad)
+[![VHDL](https://img.shields.io/badge/vhdl-black?style=for-the-badge&logo=vhdl)](https://github.com/moemen-benhamad)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/moemen-benhamad)
